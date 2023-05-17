@@ -209,8 +209,6 @@
 - Queueing Mail laravel
 - Thêm table jobs: php artisan queue:table
 - Lắng nghe:  php artisan queue:work 
-
-
-
+- Khơi tạo github.
 
 
